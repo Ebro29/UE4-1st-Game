@@ -10,6 +10,6 @@ Space = boost
 Enter = jump
 
 How to install: 
-1. Download "MetalInMotionGame.zip"
+1. Download "MetalInMotionGame.zip" from the game download link.txt file
 2. Unzip the folder
 3. Run MetalInMotion app (Should display an Unreal Engine logo)
